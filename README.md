@@ -1,2 +1,2 @@
-# Hi-WORLD
-very new to coding
+# HELLO! WORLD
+VERY NEW TO CODING
