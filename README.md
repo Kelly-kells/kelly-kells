@@ -1,8 +1,8 @@
 
-[![MasterHead](https://www.canva.com/design/DAE5KZ-falQ/kv0OT6vqhg_Rl2TpO5Novw/watch?utm_content=DAE5KZ-falQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/Kelly-kells/)
 
 
-
+<h1 align="center">HI,I'M KELLY</h1>
+<h3  align="center"> A PASSIONATE<br> FRONTEND DEVELOPER</h3>
 
 
 
@@ -39,4 +39,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelly-kells&theme=merko" alt="kelly-kells" /></p>
-
