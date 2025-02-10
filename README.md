@@ -13,7 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/kelechikells" target="blank"><img src="https://img.shields.io/twitter/follow/kelechikells?logo=twitter&style=for-the-badge" alt="kelechikells" /></a> </p>
 
-- 🔭 I’m currently working on https://github.com/Kelly-kells/search-engine.git
 
 - 🌱 I’m currently learning **Advanced Js and Web3 development**
 
