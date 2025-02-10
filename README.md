@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React, Javascript,frontend development**
 
-- 📫 How to reach me **Kellskellechi@gmail.com**
+- 📫 How to reach me **realfavourkelechi@gmail.com**
 
 - ⚡ Fun fact **I can sing.**
 
